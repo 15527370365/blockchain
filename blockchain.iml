@@ -60,5 +60,6 @@
     <orderEntry type="library" name="Maven: com.github.jnr:jnr-enxio:0.14" level="project" />
     <orderEntry type="library" name="Maven: com.github.jnr:jnr-posix:3.0.33" level="project" />
     <orderEntry type="library" name="Maven: com.lambdaworks:scrypt:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.paritytrading.parity:parity-util:0.6.0" level="project" />
   </component>
 </module>

@@ -31,6 +31,11 @@
       <artifactId>core</artifactId>
       <version>2.1.0</version>
     </dependency>
+    <dependency>
+      <groupId>com.paritytrading.parity</groupId>
+      <artifactId>parity-util</artifactId>
+      <version>0.6.0</version>
+    </dependency>
 
   </dependencies>
   <build>

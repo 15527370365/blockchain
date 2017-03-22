@@ -44,6 +44,7 @@
           <element id="library" level="project" name="Maven: com.github.jnr:jnr-enxio:0.14" />
           <element id="library" level="project" name="Maven: com.github.jnr:jnr-posix:3.0.33" />
           <element id="library" level="project" name="Maven: com.lambdaworks:scrypt:1.4.0" />
+          <element id="library" level="project" name="Maven: com.paritytrading.parity:parity-util:0.6.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">
