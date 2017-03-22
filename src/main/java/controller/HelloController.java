@@ -47,6 +47,7 @@ public class HelloController extends Controller {
         //System.out.println(Credentials.create("123456").getAddress());
         System.out.println(WalletUtils.getDefaultKeyDirectory());
 
+        System.out.print();
         /*for (int i = 0; i <parity.personalListAccounts().toString() ; i++) {
             System.out.print(parity.personalListAccounts().getParams().get(i));
         }
